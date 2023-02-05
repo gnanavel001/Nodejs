@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "dependencies": {
     "abbrev": "^1.1.1",
     "anymatch": "^3.1.3",
@@ -40,7 +40,7 @@
     "undefsafe": "^2.0.5"
   },
   "scripts": {
-    "dev": "nodemon main.js"
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
